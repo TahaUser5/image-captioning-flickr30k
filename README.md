@@ -31,6 +31,8 @@ matplotlib
 - Visual results displayed with predicted vs. ground truth captions
 
 ## 📁 Project Structure
-├── image_captioning_flickr30k.ipynb   # Main notebook
+├── image_captioning_flickr30k.ipynb # Main notebook
+
 ├── README.md
+
 └── LICENSE
